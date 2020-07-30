@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Azeez Profile Picture](https://github.com/murenzo/monster-rolodex/blob/master/public/Abdulazeez_Banjoko_Optimized.jpg)
